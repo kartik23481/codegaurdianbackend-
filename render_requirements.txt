@@ -1,0 +1,24 @@
+# Web Server & Framework
+fastapi==0.116.1
+uvicorn==0.35.0
+pydantic==2.11.7
+python-dotenv==1.1.1
+aiofiles==24.1.0
+
+# AutoGen Framework
+autogen-agentchat==0.6.4
+autogen-core==0.6.4
+autogen-ext==0.6.4
+pyautogen==0.10.0
+
+# LLM Providers (Gemini Support)
+google-generativeai
+openai==1.95.1
+
+# Sandbox Environment
+e2b==2.53.1
+e2b-code-interpreter==2.10.3
+
+# Networking & Async
+httpx==0.28.1
+websockets==15.0.1
